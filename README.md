@@ -4,4 +4,5 @@
 -logistic and softmax regression\
 -handwritten digit recognition\
 -face recognition\
--Self-organizing maps
+-Self-organizing maps\
+-Wine quality prediction
