@@ -7,4 +7,5 @@
 -Self-organizing maps\
 -Wine quality prediction\
 -Sentiment Analysis on IMDB datatset\
--Self supervised learning
+-Self supervised learning\
+-Decision Tree using C4.5
