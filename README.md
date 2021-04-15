@@ -5,4 +5,6 @@
 -handwritten digit recognition\
 -face recognition\
 -Self-organizing maps\
--Wine quality prediction
+-Wine quality prediction\
+-Sentiment Analysis on IMDB datatset\
+-Self supervised learning
